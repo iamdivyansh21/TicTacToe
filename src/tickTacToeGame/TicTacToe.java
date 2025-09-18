@@ -3,6 +3,8 @@ package tickTacToeGame;
 import java.util.Scanner;
 
 public class TicTacToe {
+	
+	//properties
     private char[][] board;
     private char currentPlayer;
     private Scanner scanner;

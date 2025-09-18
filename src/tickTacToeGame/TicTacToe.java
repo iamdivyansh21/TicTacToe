@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TicTacToe {
 	
-	//properties
+	//properties to be used
     private char[][] board;
     private char currentPlayer;
     private Scanner scanner;
